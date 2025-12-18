@@ -15,8 +15,9 @@ from typing import Any, Dict, Optional, Tuple
 import requests
 from newspaper import Article
 from openai import OpenAI  # Updated import
+from langchain_huggingface import ChatHuggingFace ,HuggingFaceEndpoint
 from tqdm import tqdm
-
+load dotenv()
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
