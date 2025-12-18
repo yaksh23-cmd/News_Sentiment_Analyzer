@@ -1,4 +1,4 @@
-# 📰 TruthLens: News_Sentiment_Analyzer
+News_Sentiment_Analyzer
 
 ## 🚀 Overview
 **TruthLens** is a misinformation detection tool designed to analyze news articles and determine their credibility. In an era where market manipulation and fake financial news can crash stocks (or mislead customers), this tool uses **LangChain** and **LLMs (Large Language Models)** to cross-reference claims against logical patterns of misinformation.
